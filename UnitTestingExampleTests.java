@@ -1,15 +1,11 @@
-// import org.testng.annotations.Test;
+// public class UnitTestingExampleTests{
 
-// import static org.testng.Assert.assertEquals;
+  
+//   public static multiplyTwoNumbers() {
+//     final int expected = 4;
 
-public class UnitTestingExampleTests{
+//     final int actual = UnitTestingExample.multiply(2, 2);
 
-  // @Test
-  public void multiplyTwoNumbers() {
-    final int expected = 4;
-
-    final int actual = UnitTestingExample.multiply(2, 2);
-
-    // return (actual, expected);
-  }
-}
+//     return (actual + ", " + expected);
+//   }
+// }
